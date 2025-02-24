@@ -13,3 +13,4 @@ Input Parameters:
   - **D** Word direction in the grid.
   - **W** The word to place in the grid.
 
+( Also side-channel for testing methods to use in [fpgent723/WordSearchGenerator](https://github.com/fpgent723/WordSearchGenerator) )
